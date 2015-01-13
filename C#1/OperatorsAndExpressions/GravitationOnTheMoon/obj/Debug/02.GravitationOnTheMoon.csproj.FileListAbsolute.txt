@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.exe
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

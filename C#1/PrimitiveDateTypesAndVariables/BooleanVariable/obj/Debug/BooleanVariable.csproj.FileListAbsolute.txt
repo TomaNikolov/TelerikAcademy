@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

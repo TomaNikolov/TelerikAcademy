@@ -1,0 +1,5 @@
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

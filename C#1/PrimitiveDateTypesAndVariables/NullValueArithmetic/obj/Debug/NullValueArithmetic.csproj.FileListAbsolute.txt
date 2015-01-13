@@ -1,0 +1,6 @@
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\bin\Debug\NullValueArithmetic.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\bin\Debug\NullValueArithmetic.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\bin\Debug\NullValueArithmetic.pdb
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\obj\Debug\NullValueArithmetic.csprojResolveAssemblyReference.cache
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\obj\Debug\NullValueArithmetic.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\obj\Debug\NullValueArithmetic.pdb

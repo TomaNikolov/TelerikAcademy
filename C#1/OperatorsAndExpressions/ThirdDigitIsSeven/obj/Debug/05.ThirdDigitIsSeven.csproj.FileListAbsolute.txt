@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIsSeven\bin\Debug\ThirdDigitIsSeven.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIsSeven\bin\Debug\ThirdDigitIsSeven.exe
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIsSeven\bin\Debug\ThirdDigitIsSeven.pdb
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIsSeven\obj\Debug\ThirdDigitIsSeven.exe
+c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\ThirdDigitIsSeven\obj\Debug\ThirdDigitIsSeven.pdb

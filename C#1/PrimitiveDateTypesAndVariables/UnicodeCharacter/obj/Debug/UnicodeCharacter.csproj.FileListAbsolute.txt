@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

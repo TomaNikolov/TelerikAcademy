@@ -1,0 +1,6 @@
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\PrintTheAsciiTable\bin\Debug\PrintTheAsciiTable.exe.config
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\PrintTheAsciiTable\bin\Debug\PrintTheAsciiTable.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\PrintTheAsciiTable\bin\Debug\PrintTheAsciiTable.pdb
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\PrintTheAsciiTable\obj\Debug\PrintTheAsciiTable.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\PrintTheAsciiTable\obj\Debug\PrintTheAsciiTable.pdb
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\PrintTheAsciiTable\obj\Debug\14.PrintTheAsciiTable.csprojResolveAssemblyReference.cache

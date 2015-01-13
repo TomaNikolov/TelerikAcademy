@@ -1,0 +1,6 @@
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\05.PrintMyName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

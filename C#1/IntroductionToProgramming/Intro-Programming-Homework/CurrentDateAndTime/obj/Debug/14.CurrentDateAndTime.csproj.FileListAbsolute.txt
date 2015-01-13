@@ -1,0 +1,6 @@
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csprojResolveAssemblyReference.cache

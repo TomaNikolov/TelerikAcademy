@@ -1,0 +1,6 @@
+C:\Users\Toma\Desktop\IntroductionToProgramming\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+C:\Users\Toma\Desktop\IntroductionToProgramming\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
+C:\Users\Toma\Desktop\IntroductionToProgramming\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
+C:\Users\Toma\Desktop\IntroductionToProgramming\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.csprojResolveAssemblyReference.cache
+C:\Users\Toma\Desktop\IntroductionToProgramming\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+C:\Users\Toma\Desktop\IntroductionToProgramming\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

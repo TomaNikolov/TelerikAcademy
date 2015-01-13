@@ -1,0 +1,6 @@
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\test\bin\Debug\test.exe.config
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\test\obj\Debug\test.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\test\obj\Debug\test.pdb
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\test\bin\Debug\test.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\test\bin\Debug\test.pdb
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\test\obj\Debug\16.BitExchangeAdvanced.csprojResolveAssemblyReference.cache

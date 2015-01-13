@@ -1,0 +1,5 @@
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

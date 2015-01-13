@@ -1,0 +1,3 @@
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
