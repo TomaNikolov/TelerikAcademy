@@ -1,6 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\PointInaCircle\bin\Debug\PointInaCircle.exe.config
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\PointInaCircle\bin\Debug\PointInaCircle.exe
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\PointInaCircle\bin\Debug\PointInaCircle.pdb
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\PointInaCircle\obj\Debug\07.PointInaCircle.csprojResolveAssemblyReference.cache
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\PointInaCircle\obj\Debug\PointInaCircle.exe
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\PointInaCircle\obj\Debug\PointInaCircle.pdb

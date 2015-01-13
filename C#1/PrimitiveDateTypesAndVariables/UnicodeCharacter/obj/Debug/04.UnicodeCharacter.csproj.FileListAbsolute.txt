@@ -1,5 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb

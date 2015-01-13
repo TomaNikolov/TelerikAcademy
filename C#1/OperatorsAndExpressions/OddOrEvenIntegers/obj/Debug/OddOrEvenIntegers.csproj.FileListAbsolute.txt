@@ -1,1 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config

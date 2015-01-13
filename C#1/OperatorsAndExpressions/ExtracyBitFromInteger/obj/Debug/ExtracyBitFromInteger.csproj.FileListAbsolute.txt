@@ -1,5 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ExtracyBitFromInteger\bin\Debug\ExtracyBitFromInteger.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ExtracyBitFromInteger\bin\Debug\ExtracyBitFromInteger.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ExtracyBitFromInteger\bin\Debug\ExtracyBitFromInteger.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ExtracyBitFromInteger\obj\Debug\ExtracyBitFromInteger.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\ExtracyBitFromInteger\obj\Debug\ExtracyBitFromInteger.pdb

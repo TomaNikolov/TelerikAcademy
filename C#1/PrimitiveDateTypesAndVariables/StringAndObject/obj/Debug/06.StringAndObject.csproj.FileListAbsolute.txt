@@ -1,6 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\StringAndObject\bin\Debug\StringAndObject.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\StringAndObject\bin\Debug\StringAndObject.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\StringAndObject\bin\Debug\StringAndObject.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\StringAndObject\obj\Debug\06.StringAndObject.csprojResolveAssemblyReference.cache
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\StringAndObject\obj\Debug\StringAndObject.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\StringAndObject\obj\Debug\StringAndObject.pdb

@@ -1,6 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\BitExchange\obj\Debug\15.BitExchange.csprojResolveAssemblyReference.cache
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\BitExchange\obj\Debug\BitExchange.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\BitExchange\obj\Debug\BitExchange.pdb

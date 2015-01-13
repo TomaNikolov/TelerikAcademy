@@ -1,5 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
-c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
-c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
-c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
-c:\users\toma\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb

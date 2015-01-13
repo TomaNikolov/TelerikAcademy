@@ -1,3 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

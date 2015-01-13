@@ -1,5 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\bin\Debug\NullValueArithmetic.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\obj\Debug\NullValueArithmetic.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\obj\Debug\NullValueArithmetic.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\bin\Debug\NullValueArithmetic.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NullValueArithmetic\bin\Debug\NullValueArithmetic.pdb

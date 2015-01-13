@@ -1,5 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NankAccountData\bin\Debug\NankAccountData.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NankAccountData\bin\Debug\NankAccountData.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NankAccountData\bin\Debug\NankAccountData.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NankAccountData\obj\Debug\NankAccountData.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\NankAccountData\obj\Debug\NankAccountData.pdb

@@ -1,5 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\07.QuotesInString\bin\Debug\07.QuotesInString.exe.config
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\07.QuotesInString\bin\Debug\07.QuotesInString.exe
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\07.QuotesInString\bin\Debug\07.QuotesInString.pdb
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\07.QuotesInString\obj\Debug\07.QuotesInString.exe
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\07.QuotesInString\obj\Debug\07.QuotesInString.pdb

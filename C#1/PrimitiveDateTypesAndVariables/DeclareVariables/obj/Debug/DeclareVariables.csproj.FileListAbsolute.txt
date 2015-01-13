@@ -1,6 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.pdb
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
-c:\users\toma\documents\visual studio 2013\Projects\PrimitiveDateTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb

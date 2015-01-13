@@ -1,6 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache

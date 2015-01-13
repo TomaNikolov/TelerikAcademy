@@ -1,5 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb

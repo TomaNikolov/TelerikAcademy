@@ -1,3 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

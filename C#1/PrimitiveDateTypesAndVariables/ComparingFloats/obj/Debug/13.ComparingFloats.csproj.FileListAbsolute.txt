@@ -1,6 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

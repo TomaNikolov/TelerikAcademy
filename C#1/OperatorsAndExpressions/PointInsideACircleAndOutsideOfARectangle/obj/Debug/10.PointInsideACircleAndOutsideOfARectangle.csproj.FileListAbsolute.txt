@@ -1,6 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.csprojResolveAssemblyReference.cache
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\PointInsideACircleAndOutsideOfARectangle\obj\Debug\PointInsideACircleAndOutsideOfARectangle.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\PointInsideACircleAndOutsideOfARectangle\obj\Debug\PointInsideACircleAndOutsideOfARectangle.pdb

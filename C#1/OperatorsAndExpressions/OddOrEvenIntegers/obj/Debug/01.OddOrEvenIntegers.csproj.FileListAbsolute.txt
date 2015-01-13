@@ -1,6 +1,0 @@
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
-c:\users\toma\documents\visual studio 2013\Projects\OperatorsAndExpressions\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache
-C:\Users\Toma\Documents\Visual Studio 2013\Projects\PrimitiveDateTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
