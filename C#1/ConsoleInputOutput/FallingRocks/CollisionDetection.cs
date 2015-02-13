@@ -8,9 +8,7 @@ namespace FallingRocks
 {
     class CollisionDetection
     {
-        //List<Rock> rocks;
-        //List<Bullet> bullets;
-        //Dwarf dwarf;
+       
 
         public static int BulletDetection(List<Bullet> bullets,List<Rock> rocks)
         {   
@@ -37,8 +35,11 @@ namespace FallingRocks
         {
             for (int i = 0; i < rocks.Count; i++)
             {
-                if (dwarf.Position == rocks[i].Position)
-                    return true;
+                if (!rocks[i].IsDestroy)
+                {
+                    if (dwarf.Position == rocks[i].Position)
+                        return true;
+                }
             }
             return false;
         }
