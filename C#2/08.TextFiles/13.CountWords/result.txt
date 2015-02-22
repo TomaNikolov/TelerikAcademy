@@ -1,0 +1,5 @@
+hopes : 5
+delight : 3
+Wholly : 3
+Considered : 3
+discretion : 3
