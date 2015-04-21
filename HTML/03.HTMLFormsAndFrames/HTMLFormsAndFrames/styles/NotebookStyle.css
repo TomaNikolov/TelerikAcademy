@@ -1,0 +1,14 @@
+﻿
+thead, tr, th  {
+    border: 2px solid gray;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+    table#t01 th {
+        color: black;
+      
+    }
