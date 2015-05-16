@@ -1,0 +1,72 @@
+﻿body {
+  margin: 0;
+  padding: 0;
+}
+body div {
+  background-color: #3B3B3B;
+  width: 660px;
+  height: 300px;
+  border: 1px solid #806850;
+  border-radius: 5px;
+}
+body div header {
+  background: #3b3b3b;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #3b3b3b 0%, #3a3a3a 49%, #232323 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3b3b3b), color-stop(49%, #3a3a3a), color-stop(100%, #232323));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3b3b3b 0%, #3a3a3a 49%, #232323 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3b3b3b 0%, #3a3a3a 49%, #232323 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3b3b3b 0%, #3a3a3a 49%, #232323 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #3b3b3b 0%, #3a3a3a 49%, #232323 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3b3b3b', endColorstr='#232323', GradientType=0);
+  /* IE6-9 */
+  display: inline-block;
+  width: 100%;
+}
+body div header img {
+  padding-left: 10px;
+  padding-top: 10px;
+  vertical-align: middle;
+  display: inline-block;
+}
+body div header form {
+  display: inline-block;
+  padding-bottom: 20px;
+}
+body div header form label {
+  padding-left: 15px;
+  color: #ffffff;
+  font-size: 25px;
+}
+body div header .loginBtn {
+  background: url("../imgs/button.png");
+  background-position: bottom 10px;
+  height: 30px;
+  background-size: 100% 100%;
+  width: 66px;
+  border: none;
+  vertical-align: middle;
+}
+body div section h1 {
+  color: #FDD90B;
+}
+body div section article {
+  color: #AAAAAA;
+}
+body div section article strong {
+  color: #ffffff;
+}
+body div section article a {
+  text-decoration: none;
+  color: #AAAAAA;
+}
+body div section article a:hover {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=03.MembersLogin.css.map */

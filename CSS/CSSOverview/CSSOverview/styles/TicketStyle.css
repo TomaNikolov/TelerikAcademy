@@ -1,0 +1,43 @@
+﻿body {
+    background: #595959;
+    font-family: calibri;
+    font-size: 20px;
+}
+
+.gray {
+    color: #8EABA8;
+}
+
+dt {
+    float: left;
+    clear: left;
+    text-align: right;
+    color: #ffffff;
+}
+
+dd {
+    margin: 0 0 0 8em;
+    padding: 0 0 0.8em 0;
+}
+
+.yellow {
+    color: #E4D987;
+}
+
+.red {
+    color: #ff0000;
+}
+
+.orange {
+    color: #E36C1B;
+}
+
+div {
+    background-color: #71B47A;
+    height: 1em;
+    width: 0.2em;
+    float: left;
+    border-radius: 50%;
+    padding-left: 1em;
+    margin-right: 0.5em;
+}

@@ -1,0 +1,112 @@
+﻿body {
+  padding: 0;
+  margin: 0;
+  background: #d492fe;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #d492fe 9%, #9215f2 34%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(9%, #d492fe), color-stop(34%, #9215f2));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #d492fe 9%, #9215f2 34%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #d492fe 9%, #9215f2 34%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #d492fe 9%, #9215f2 34%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #d492fe 9%, #9215f2 34%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d492fe', endColorstr='#9215f2', GradientType=0);
+  /* IE6-9 */
+  font-size: 16px;
+  color: white;
+}
+#header-container {
+  width: 100%;
+}
+#header-container #logo-container {
+  float: left;
+  position: relative;
+  left: 15px;
+}
+#header-container #reg-form-container {
+  float: right;
+  position: relative;
+  right: 5%;
+  top: 30px;
+}
+#header-container form {
+  text-align: right;
+}
+#header-container input {
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+#header-container button {
+  border-radius: 15px;
+  margin-right: 180px;
+  color: white;
+}
+nav {
+  clear: both;
+  display: block;
+  width: 75%;
+  margin: 20px;
+  padding: 12px;
+}
+#main-nav-list {
+  border: 2px solid black;
+  float: left;
+  width: 100%;
+  border-radius: 15px;
+}
+#main-nav-list li {
+  display: inline-block;
+  padding: 10px;
+}
+#main-nav-list a {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: white;
+}
+#main-nav-list a:hover {
+  text-decoration: underline;
+}
+#main-nav-list:hover ul li {
+  clear: both;
+  display: block;
+}
+#main-nav-list ul li {
+  display: none;
+  position: absolute;
+}
+section {
+  float: left;
+  width: 70%;
+}
+section article {
+  border: 2px solid black;
+  margin: 20px;
+  border-radius: 5px;
+}
+aside {
+  float: left;
+  width: 25%;
+  margin-top: 10px;
+}
+aside li {
+  border: 2px solid black;
+  list-style: none;
+  padding: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+aside li li {
+  border: none;
+  margin: 5px;
+  padding: 0;
+}
+footer {
+  clear: both;
+}
+/*# sourceMappingURL=01.ForumPost.css.map */

@@ -1,0 +1,96 @@
+﻿
+@border-color: #3E3E3E;
+
+body, div, nav, header, ul, li, a, section, p, img, aside {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: Calibri;
+    font-weight:bold;
+}
+
+.wrapper {
+    width: 1070px;
+    height: 790px;
+    border: 2px solid @border-color;
+    border-radius: 5px;
+    margin:5px;
+}
+
+header nav {
+    text-align: center;
+
+    ul li {
+        display: inline-block;
+
+        a {
+            font-weight: bold;
+            font-size: 2em;
+            color: #00AEF0;
+        }
+    }
+
+    hr {
+        height: 2px;
+        background-color: @border-color;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+section {
+
+
+    .leftContent {
+        border: 2px solid @border-color;
+        width: 730px;
+        margin-left: 10px;
+        margin: 5px;
+        display: inline-block;
+        float:left;
+
+        fieldset {
+            width: 320px;
+            display: inline-block;
+            margin: 5px;
+
+            legend {
+                text-align: center;
+            }
+            .left{
+                display:inline-block;
+                text-align:center;
+            }
+            .right{
+                 display:inline-block;
+                 text-align:center;
+                 p{
+                     padding:20px;
+                 }
+            }
+        }
+    }
+
+    .sideContetnt {
+        display: inline-block;
+        margin-left:10px;
+        margin-top:50px;
+        div{
+            padding-top:30px;
+            padding-bottom:30px;
+
+            p:last-child{
+                text-align:right;
+               padding-left:10px;
+            }
+
+        }
+      p {
+          display:inline-block;
+          font-size:35px;
+       }
+      input{
+          width:280px;
+      }
+    }
+}
