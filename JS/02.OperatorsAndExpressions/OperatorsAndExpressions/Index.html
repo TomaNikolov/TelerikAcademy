@@ -1,0 +1,259 @@
+﻿<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+    <title>Operators and Expressions</title>
+    <link href='styles/style.css' rel='stylesheet' />
+</head>
+<body>
+    <div id='wrapper'>
+        <h1>Operators and Expressions</h1>
+        <div id='problem1' class='problem'>
+            <h2>Problem 1. Odd or Even</h2>
+            <p>
+                Write an expression that checks if given integer is odd or even.
+            </p>
+            <form onsubmit='oddOrEven(); return false;'>
+                <input type='text' id='oddOrEvenInput' placeholder='Enter number' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <table id='problem1Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            n
+                        </th>
+                        <th>
+                            Odd or even?
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem2' class='problem'>
+            <h2>Problem 2. Divisible by 7 and 5</h2>
+            <p>
+                Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.
+            </p>
+            <form onsubmit='divisibleBy(); return false;'>
+                <input type='text' id='divisible-by' placeholder='Enter number' />
+                <br/>
+                <input type='submit' value='submit' />
+                <br/>
+            </form>
+            <table id='problem2Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            n
+                        </th>
+                        <th>
+                            Divided by 7 and 5?
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem3' class='problem'>
+            <h2>Problem 3.  Rectangle area</h2>
+            <p>
+                Write an expression that calculates rectangle’s area by given width and height.
+            </p>
+            <form onsubmit='rectArea(); return false;'>
+                <input type='text' id='rect-width' placeholder='Enter number' />
+                <br/>
+                <input type='text' id='rect-height' placeholder='Enter number' />
+                <br/>
+                <input type='submit' value='submit' />
+                <br/>
+            </form>
+            <table id='problem3Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            width
+                        </th>
+                        <th>
+                            height
+                        </th>
+                        <th>
+                            area
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem4' class='problem'>
+            <h2>Problem 4. Third digit</h2>
+            <p>
+                Write an expression that checks for given integer if its third digit (right-to-left) is 7.
+            </p>
+            <form onsubmit='thirdDigit(); return false;'>
+                <input type='text' id='third-digit' placeholder='Enter number' />
+                <br />
+                <input type='submit' value='submit' />
+                <br/>
+            </form>
+            <table id='problem4Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            n
+                        </th>
+                        <th>
+                            Third digit 7?
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem5' class='problem'>
+            <h2>Problem 5. Third bit</h2>
+            <p>
+                Write a boolean expression for finding if the bit #3 (counting from 0) of a given integer.
+                The bits are counted from right to left, starting from bit #0.
+                The result of the expression should be either 1 or 0.
+            </p>
+            <form onsubmit='thirdBit(); return false;'>
+                <input type='text' id='third-bit' placeholder='Enter number' />
+                <br/>
+                <input type='submit' value='submit' />
+                <br/>
+            </form>
+            <table id='problem5Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            n
+                        </th>
+                        <th>
+                            binary representation
+                        </th>
+                        <th>
+                            bit #3
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem6' class='problem'>
+            <h2>Problem 6. Point in Circle</h2>
+            <p>
+                Write an expression that checks if given point P(x, y) is within a circle K(O, 5).
+            </p>
+            <form onsubmit='pointInCircle(); return false;'>
+                <input type='text' id='point-x' placeholder='Enter X' />
+                <br />
+                <input type='text' id='point-y' placeholder='Enter Y' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <table id='problem6Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            x
+                        </th>
+                        <th>
+                            y
+                        </th>
+                        <th>
+                            inside
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem7' class='problem'>
+            <h2>Problem 7. Is prime</h2>
+            <p>
+                Write an expression that checks if given positive integer number n (n ≤ 100) is prime
+            </p>
+            <form onsubmit='isPrime(); return false;'>
+                <input type='text' id='prime' placeholder='Enter number' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <table id='problem7Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            n
+                        </th>
+                        <th>
+                            Prime?
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem8' class='problem'>
+            <h2>Problem 8. Trapezoid area</h2>
+            <p>
+                Write an expression that calculates trapezoid's area by given sides a and b and height h.
+            </p>
+            <form onsubmit='trapArea(); return false;'>
+                <input type='text' id='a' placeholder='Enter a' />
+                <br />
+                <input type='text' id='b' placeholder='Enter b' />
+                <br />
+                <input type='text' id='h' placeholder='Enter h' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <table id='problem8Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            a
+                        </th>
+                        <th>
+                            b
+                        </th>
+                        <th>
+                            h
+                        </th>
+                        <th>
+                            inside
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+        <div id='problem9' class='problem'>
+            <h2>Problem 9. Point in Circle and outside Rectangle</h2>
+            <p>
+                Write an expression that checks for given point P(x, y) if it is within the circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).
+            </p>
+            <form onsubmit='inCircleOutRect(); return false;'>
+                <input type='text' id='new-point-x' placeholder='Enter X' />
+                <br />
+                <input type='text' id='new-point-y' placeholder='Enter Y' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <table id='problem9Table'>
+                <thead>
+                    <tr>
+                        <th>
+                            x
+                        </th>
+                        <th>
+                            y
+                        </th>
+                        <th>
+                            inside K & outside of R
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+    <script src='scripts.js'></script>
+</body>
+</html>

@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Loops</title>
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id='wrapper'>
+        <h1>Loops</h1>
+        <div id='problem1' class='problem'>
+            <h2>Problem 1. Numbers</h2>
+            <p>
+                Write a script that prints all the numbers from 1 to N.
+            </p>
+            <form onsubmit='print(); return false;'>
+                <input type='text' id='p1-n' placeholder='Enter N' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <section id="p1-section">
+                <p>
+                    Numbers are:
+                </p>
+                <article id="p1-result"></article>
+            </section>
+        </div>
+        <div id='problem2' class='problem'>
+            <h2>Problem 2. Numbers not divisible</h2>
+            <p>
+                Write a script that prints all the numbers from 1 to N, that are not divisible by 3 and 7 at the same time
+            </p>
+            <form onsubmit='numbersNotDivisible(); return false;'>
+                <input type='text' id='p2-n' placeholder='Enter N' />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <section id="p2-section">
+                <p>
+                    Numbers are:
+                </p>
+                <article id="p2-result"></article>
+            </section>
+        </div>
+        <div id='problem3' class='problem'>
+            <h2>Problem 3. Min/Max of sequence</h2>
+            <p>
+                Write a script that finds the max and min number from a sequence of numbers.
+            </p>
+            <form onsubmit='minMax(); return false;'>
+                <input type='text' id='p3-n' placeholder='Enter sequence' value="2 3 4 5 6 7 " />
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <section id="p3-section">
+                <p>
+                    Min and Max:
+                </p>
+                <article id="p3-result"></article>
+            </section>
+        </div>
+        <div id='problem4' class='problem'>
+            <h2>Problem 4. Lexicographically smallest</h2>
+            <p>
+                Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects.
+            </p>
+            <form onsubmit='lexicographicallySmallest(); return false;'>
+                <select type='' id='p4-n'>
+                    <option value="1">Window</option>
+                    <option value="2">Document</option>
+                    <option value="3">Navigator</option>
+                </select>
+                <br />
+                <input type='submit' value='submit' />
+                <br />
+            </form>
+            <section id="p4-section">
+                <p>
+                    Min and Max:
+                </p>
+                <article id="p4-result"></article>
+            </section>
+        </div>
+    </div>
+    <script src='scripts.js'></script>
+</body>
+</html>
