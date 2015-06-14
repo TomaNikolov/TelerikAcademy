@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Arrays</title>
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+<div id='wrapper'>
+    <h1>Arrays</h1>
+    <div id='problem1' class='problem'>
+        <h2>Problem 1. Increase array members</h2>
+        <p>
+            Write a script that allocates array of 20 integers and initializes each element by its index multiplied by 5.
+            Print the obtained array on the console.
+        </p>
+        <form onsubmit='print(); return false;'>
+            <input type='text' id='p1-n' placeholder='Enter N' value="20" />
+            <br />
+            <input type='submit' value='submit' />
+            <br />
+        </form>
+        <section id="p1-section">
+            <p>
+                Numbers are:
+            </p>
+            <article id="p1-result"></article>
+        </section>
+    </div>
+    <div id='problem2' class='problem'>
+        <h2>Problem 2. Lexicographically comparison</h2>
+        <p>
+            Write a script that compares two char arrays lexicographically (letter by letter).
+        </p>
+        <form onsubmit='lexComparison(); return false;'>
+            <input type='text' id='p2-n' placeholder='Enter first char array' value="a, b, c, d"/>
+            <br />
+            <input type='text' id='p2-c' placeholder='Enter second char array' value="a, b, c, d" />
+            <br />
+            <input type='submit' value='submit' />
+            <br />
+        </form>
+        <table id='problem2Table'>
+            <section id="p2-section">
+                <article id="p2-result"></article>
+            </section>
+        </table>
+    </div>
+    <div id='problem3' class='problem'>
+        <h2>Problem 3. Maximal sequence</h2>
+        <p>
+            Write a script that finds the maximal sequence of equal elements in an array.
+        </p>
+        <form onsubmit='maxSequence(); return false;'>
+            <input type='text' id='p3-n' placeholder='Enter sequence' value="2, 1, 1, 2, 3, 3, 2, 2, 2, 1" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <table id='problem3Table'>
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id='problem4' class='problem'>
+        <h2>Problem 4. Maximal increasing sequence</h2>
+        <p>
+            Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects.
+        </p>
+        <form onsubmit='maxIncreasingSeq(); return false;'>
+            <input type='text' id='p4-n' placeholder='Enter sequence' value="3, 2, 3, 4, 2, 2, 4" />
+            <br />
+                     <input type='submit' value='submit' />
+            <br />
+        </form>
+        <table id='problem4Table'>
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id='problem5' class='problem'>
+        <h2>Problem 5. Selection sort</h2>
+        <p>
+            Sorting an array means to arrange its elements in increasing order.
+            Write a script to sort an array.
+            Use the selection sort algorithm: Find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.
+            Hint: Use a second array
+        </p>
+        <form onsubmit='selectionSort(); return false;'>
+            <input type='text' id='p5-n' placeholder='Enter sequence' value="2, 1, 1, 2, 3, 3, 2, 2, 2, 1" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <section id="p5-section">
+            <p>
+                Sorted:
+            </p>
+            <article id="p5-result"></article>
+        </section>
+    </div>
+    <div id='problem6' class='problem'>
+        <h2>Problem 6. Most frequent number</h2>
+        <p>
+            Write a script that finds the most frequent number in an array.
+        </p>
+        <form onsubmit='mostFreqNumber(); return false;'>
+            <input type='text' id='p6-n' placeholder='Enter sequence' value="4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <table id='problem6Table'>
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id='problem7' class='problem'>
+        <h2>Problem 7. Binary search</h2>
+        <p>
+            Write a script that finds the index of given element in a sorted array of integers by using the binary search algorithm.
+        </p>
+        <form onsubmit='readNumber(); return false;'>
+            <input type='text' id='p7-n' placeholder='Enter sequence' value="2, 1, 1, 2, 3, 7, 3, 2, 2, 2, 1" />
+            <br />
+            <input type='text' id='p7-c' placeholder='Enter number' value="7" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <section id="p7-section">
+            <p>
+                After sort
+            </p>
+            <article id="p7-result"></article>
+        </section>
+    </div>
+</div>
+<script src='scripts.js'></script>
+</body>
+</html>

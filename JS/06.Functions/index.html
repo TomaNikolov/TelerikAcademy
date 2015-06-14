@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Functions</title>
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+<div id='wrapper'>
+    <h1>Functions</h1>
+    <div id='problem1' class='problem'>
+        <h2>Problem 1. English digit</h2>
+        <p>
+            Write a function that returns the last digit of given integer as an English word.
+        </p>
+        <form onsubmit='englishDigit(); return false;'>
+            <input type='text' id='p1-n' placeholder='Enter numbers' value="234" />
+            <br />
+            <input type='submit' value='submit' />
+            <br />
+        </form>
+        <table id='problem1Table'>
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id='problem2' class='problem'>
+        <h2>Problem 2. Reverse number</h2>
+        <p>
+            Write a function that reverses the digits of given decimal number.
+        </p>
+        <form onsubmit='reverseNumber(); return false;'>
+            <input type='text' id='p2-n' placeholder='Enter numbers' value="234"/>
+            <br />
+            <input type='submit' value='submit' />
+            <br />
+        </form>
+        <table id='problem2Table'>
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id='problem3' class='problem'>
+        <h2>Problem 3. Occurrences of word</h2>
+        <p>
+            Write a function that finds all the occurrences of word in a text.
+            The search can be case sensitive or case insensitive.
+            Use function overloading.
+        </p>
+        <form onsubmit='occurrence(); return false;'>
+            <textarea id='p3-t' placeholder='Enter text'  >
+                Write a function that finds all the occurrences of word in a text. The search can be case sensitive or case insensitive. Use Function overloading.
+                </textarea>
+            <br />
+            <input type='text' id='p3-w' placeholder='Enter word' value="function" />
+            <br />
+            <select id="p3-c">
+                <option value="1">
+                    Case Sensitive
+                </option>
+                <option value="2">
+                    Case Insensitive
+                </option>
+            </select>
+            <br/>
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <section id="p3-section">
+            <p>
+                Result:
+            </p>
+            <article id="p3-result"></article>
+        </section>
+    </div>
+    <div id='problem4' class='problem'>
+        <h2>Problem 4. Number of elements</h2>
+        <p>
+            Write a function to count the number of div elements on the web page
+        </p>
+        <form onsubmit='numberOfElement(); return false;'>
+            <input type='submit' value='submit' />
+            <br />
+        </form>
+        <section id="p4-section">
+            <p>
+                Div count:
+            </p>
+            <article id="p4-result"></article>
+        </section>
+    </div>
+    <div id='problem5' class='problem'>
+        <h2>Problem 5. Appearance count</h2>
+        <p>
+            Write a function that counts how many times given number appears in given array.
+            Write a test function to check if the function is working correctly.
+        </p>
+        <form onsubmit='appearanceCount(); return false;'>
+            <input type='text' id='p5-n' placeholder='Enter array' value="2, 1, 1, 2, 3, 4, 2, 2, 2, 1" />
+            <br />
+            <input type='text' id='p5-c' placeholder='Enter index' value="2" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <section id="p5-section">
+            <p>
+                Result:
+            </p>
+            <article id="p5-result"></article>
+        </section>
+    </div>
+    <div id='problem6' class='problem'>
+        <h2>Problem 6. Larger than neighbours</h2>
+        <p>
+            Write a function that checks if the element at given position in given array of integers is bigger than its two neighbours (when such exist).
+        </p>
+        <form onsubmit='larger(); return false;'>
+            <input type='text' id='p6-n' placeholder='Enter sequence' value="4, 1, 1, 4, 2, 3, 4, 5, 1, 2, 4, 9, 3" />
+            <br />
+            <input type='text' id='p6-c' placeholder='Enter index' value="7" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <section id="p6-section">
+            <p>
+                Result:
+            </p>
+            <article id="p6-result"></article>
+        </section>
+    </div>
+    <div id='problem7' class='problem'>
+        <h2>Problem 7. First larger than neighbours</h2>
+        <p>
+            Write a function that returns the index of the first element in array that is larger than its neighbours or -1, if there’s no such element.
+            Use the function from the previous exercise.
+        </p>
+        <form onsubmit='firstLargerThanNeibhours(); return false;'>
+            <input type='text' id='p7-n' placeholder='Enter sequence' value="2, 1, 1, 2, 3, 7, 3, 2, 2, 2, 1" />
+            <br />
+            <input type='submit' value='submit'/>
+            <br/>
+        </form>
+        <section id="p7-section">
+            <p>
+                Result:
+            </p>
+            <article id="p7-result"></article>
+        </section>
+    </div>
+</div>
+<script src='scripts.js'></script>
+</body>
+</html>

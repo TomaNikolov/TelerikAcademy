@@ -117,7 +117,7 @@ function sortNumbers() {
     if (a >= b && b >= c) {
         result = sort(a, b, c);
     }
-    else if (a > c && b > c) {
+    else if (a > c && b < c) {
         result = sort(a, c, b);
     }
     else if (b > a && a >= c) {
@@ -293,8 +293,8 @@ function biggestOfTwo(first, second) {
 }
 
 function sort(first, second, third) {
-    return first.toString() + ' '
-        + second.toString() + ' '
+    return first.toString() + ', '
+        + second.toString() + ', '
         + third.toString();
 }
 

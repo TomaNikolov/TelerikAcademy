@@ -1,29 +1,79 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+    <title>Data types and Variables</title>
     <link href="style/style.css" rel="stylesheet" />
 </head>
 <body>
     <div id="wrapper">
-        <div id="task1" class="task">
-            <h1>Task 1</h1>
+        <h1>Data types and Variables</h1>
+        <div id="problem1" class="problem">
+            <h2>Problem 1. JavaScript literals</h2>
+            <p>
+                Assign all the possible JavaScript literals to different variables.
+            </p>
+            <form onsubmit="firstProblem(); return false;">
+                <input type="submit" value="submit" />
+                <br />
+            </form>
+            <section id="p1-section">
+                <p>
+                    
+                </p>
+                <article id="p1-result"></article>
+            </section>
         </div>
-        <div id="task2" class="task">
-            <h1>
-                Task 2
-            </h1>
+        <div id="problem2" class="problem">
+            <h2>Problem 2. Quoted text</h2>
+            <p>
+                Create a string variable with quoted text in it.
+                For example: `'How you doin'?', Joey said'.
+            </p>
+            <form onsubmit="quotedText(); return false;">
+                <input type="submit" value="submit" />
+                <br />
+            </form>
+            <section id="p2-section">
+                <p>
+                    Div count:
+                </p>
+                <article id="p2-result"></article>
+            </section>
         </div>
-        <div id="task3" class="task">
-            <h1>
-                Task 3
-            </h1>
-        </div>
-        <div id="task4" class="task">
-            <h1>
-                Task 4
-            </h1>
-        </div>
+   
+    <div id="problem3" class="problem">
+        <h2>Problem 3. Typeof variables</h2>
+        <p>
+            Try typeof on all variables you created.
+        </p>
+        <form onsubmit="typeOfAllVar(); return false;">
+            <br />
+            <input type="submit" value="submit" />
+            <br />
+        </form>
+        <section id="p3-section">
+            <p>
+                Result:
+            </p>
+            <article id="p3-result"></article>
+        </section>
+    </div>
+    <div id="problem4" class="problem">
+        <h2>Problem 4. Typeof null</h2>
+        <p>
+            Create null, undefined variables and try typeof on them.
+        </p>
+        <form onsubmit="typeOfVariables(); return false;">
+            <input type="submit" value="submit" />
+            <br />
+        </form>
+        <section id="p4-section">
+            <p>
+               
+            </p>
+            <article id="p4-result"></article>
+        </section>
+    </div>
     </div>
     <script src="scripts.js"></script>
 </body>

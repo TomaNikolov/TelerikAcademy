@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Strings</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="wrapper">
+    <h1>Strings</h1>
+
+    <div id="problem1" class="problem">
+        <h2>Problem 1. Reverse string</h2>
+
+        <p>
+            Write a JavaScript function that reverses a string and returns it.
+        </p>
+
+        <form onsubmit="reverseString(); return false;">
+            <input type="text" id="p1-n" placeholder="Enter text" value="Text"/>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <table id="problem1Table">
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id="problem2" class="problem">
+        <h2>Problem 2. Correct brackets</h2>
+
+        <p>
+            Write a JavaScript function to check if in a given expression the brackets are put correctly.
+            Example of correct expression: ((a+b)/5-d). Example of incorrect expression: )(a+b)).
+        </p>
+
+        <form onsubmit="correctBrackets(); return false;">
+            <input type="text" id="p2-n" placeholder="Enter numbers" value="((a+b)/5-d)"/>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <table id="problem2Table">
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id="problem3" class="problem">
+        <h2>Problem 3. Sub-string in text</h2>
+
+        <p>
+            Write a JavaScript function that finds how many times a substring is contained in a given text (perform case
+            insensitive search).
+        </p>
+
+        <form onsubmit="occurrence(); return false;">
+            <textarea id="p3-t" placeholder="Enter text">
+                We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.
+                </textarea>
+            <br/>
+            <input type="text" id="p3-w" placeholder="Enter word" value="in"/>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p3-section">
+            <p>
+                Result:
+            </p>
+            <article id="p3-result"></article>
+        </section>
+    </div>
+    <div id="problem4" class="problem">
+        <h2>Problem 4. Parse tags</h2>
+
+        <p>
+            You are given a text. Write a function that changes the text in all regions:
+        </p>
+
+        <form onsubmit="numberOfElement(); return false;">
+             <textarea id="p4-t" placeholder="Enter text">
+            We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else.
+                </textarea>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p4-section">
+            <p>
+                Div count:
+            </p>
+            <article id="p4-result"></article>
+        </section>
+    </div>
+    <div id="problem5" class="problem">
+        <h2>Problem 5. nbsp</h2>
+
+        <p>
+            Problem 5. nbsp
+        </p>
+
+        <form onsubmit="replace(); return false;">
+             <textarea id="p5-n" placeholder="Enter text">
+                We are living in an yellow submarine. We don't have anything else. inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.
+                </textarea>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p5-section">
+            <p>
+                Result:
+            </p>
+            <article id="p5-result"></article>
+        </section>
+    </div>
+    <div id="problem6" class="problem">
+        <h2>Problem 6. Extract text from HTML</h2>
+
+        <p>
+            Write a function that extracts the content of a html page given as text.
+            The function should return anything that is in a tag, without the tags.
+        </p>
+
+        <form onsubmit="extractTextFromHtml(); return false;">
+           <textarea id="p6-n" placeholder="Enter text">
+               <html>
+               <head>
+                   <title>Sample site</title>
+               </head>
+               <body>
+               <div>text
+                   <div>more text</div>
+                   and more...
+               </div>
+               in body
+               </body>
+               </html>
+                </textarea>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p6-section">
+            <p>
+                Result:
+            </p>
+            <article id="p6-result"></article>
+        </section>
+    </div>
+    <div id="problem7" class="problem">
+        <h2>Problem 7. Parse URL</h2>
+
+        <p>
+            Write a script that parses an URL address given in the format: [protocol]://[server]/[resource] and extracts
+            from it the [protocol], [server] and [resource] elements.
+            Return the elements in a JSON object.
+        </p>
+
+        <form onsubmit="parceUrl(); return false;">
+            <input type="text" id="p7-n" placeholder="Enter sequence"
+                   value="http://telerikacademy.com/Courses/Courses/Details/239"/>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p7-section">
+            <p>
+                Result:
+            </p>
+            <article id="p7-result"></article>
+        </section>
+    </div>
+    <div id="problem8" class="problem">
+        <h2>Problem 8. Replace tags</h2>
+
+        <p>
+            Write a JavaScript function that replaces in a HTML document given as string all the tags &lt a
+            href="..."&gt...&lt/a&gt with corresponding tags [URL=...].../URL].
+        </p>
+
+        <form onsubmit="replaceTag(); return false;">
+    <textarea id="p8-n" placeholder="Enter text">
+               <p>Please visit <a href="http://academy.telerik.com">our site</a> to choose a training course. Also visit
+                   <a href="www.devbg.org">our forum</a> to discuss the courses.</p>
+                </textarea>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p8-section">
+            <p>
+                Result:
+            </p>
+            <article id="p8-result"></article>
+        </section>
+    </div>
+    <div id="problem9" class="problem">
+        <h2>Problem 9. Extract e-mailsL</h2>
+
+        <p>
+            Write a function for extracting all email addresses from given text.
+            All sub-strings that match the format @... should be recognized as emails.
+            Return the emails as array of strings.
+        </p>
+
+        <form onsubmit="extractMails(); return false;">
+            <textarea id="p9-n" placeholder="Enter text">
+              text some text pesho@abv.bg text text gosho@gmail.com!
+                </textarea>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p9-section">
+            <p>
+                Result:
+            </p>
+            <article id="p9-result"></article>
+        </section>
+    </div>
+    <div id="problem10" class="problem">
+        <h2>Problem 10. Find palindromes</h2>
+
+        <p>
+            Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".
+        </p>
+
+        <form onsubmit="findPalindromes(); return false;">
+            <input type="text" id="p10-n" placeholder="Enter sequence" value="lamal"/>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <table id="problem10Table">
+            <thead>
+            <tr>
+                <th>
+                    input
+                </th>
+                <th>
+                    result
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+    <div id="problem11" class="problem">
+        <h2>Problem 11. String format</h2>
+
+        <p>
+            Write a function that formats a string using placeholders.
+            The function should work with up to 30 placeholders and all types.
+        </p>
+
+        <form onsubmit="strForm(); return false;">
+            <input type="text" id="p11-n" readonly="readonly" placeholder="Enter sequence" value="'Hello {0}!', 'Peter'"/>
+            <br/>
+            <input type="submit" value="submit"/>
+            <br/>
+        </form>
+        <section id="p11-section">
+            <p>
+                Result:
+            </p>
+            <article id="p11-result"></article>
+        </section>
+    </div>
+    <div id="problem12" class="problem">
+        <h2>Problem 12. Generate list</h2>
+
+        <p>
+            Write a function that creates a HTML ul> using a template for every HTML &ltli&gt.
+            The source of the list should be an array of elements.
+            Replace all placeholders marked with &#45;{...}&#45; with the value of the corresponding property of the
+            object.
+        </p>
+
+        <form onsubmit="generateList(); return false;">
+            <input type="submit" value="submit"/>
+            <br/>
+            <div data-type="template" id="list-item">
+                <strong>-{name}-</strong> <span>-{age}-</span>
+            </div>
+        </form>
+        <div id="result">
+        </div>
+    </div>
+</div>
+<script src="scripts.js"></script>
+</body>
+</html>

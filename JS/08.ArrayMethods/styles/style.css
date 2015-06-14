@@ -1,0 +1,150 @@
+body,
+header,
+section,
+footer,
+article,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+label,
+p,
+fieldset,
+nav,
+ul,
+li,
+a,
+span,
+strong,
+em {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  color: #333333;
+  background: #202020;
+  font-family: Calibri, Consolas;
+}
+#wrapper {
+  width: 960px;
+  margin-top: 0;
+  margin: 0 auto;
+  background: white;
+  border: 1px solid #C2BEBE;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+#wrapper h1 {
+  background: #00733E;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: #ffffff;
+  box-shadow: 0px 1px 20px 2px black;
+  margin-bottom: 40px;
+}
+#wrapper .problem {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-bottom: 1px solid #A62D00;
+}
+#wrapper .problem h2 {
+  margin: 10px;
+  color: #61D8A2;
+}
+#wrapper .problem p {
+  margin: 10px;
+}
+#wrapper .problem input {
+  margin: 5px;
+  border-radius: 4px;
+  border: 1px solid #C2BEBE;
+}
+#wrapper .problem input[type=text] {
+  height: 20px;
+  width: 160px;
+  padding-left: 5px;
+}
+#wrapper .problem input[type=submit] {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 7px;
+  border-radius: 10px;
+  text-shadow: 2px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #CD35D3;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+#wrapper .problem input[type=submit]:hover {
+  background: #A101A6;
+  text-decoration: none;
+}
+#wrapper .problem .invalidInput {
+  border: 2px solid #FF1900;
+}
+table {
+  border-collapse: collapse;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+table tr {
+  background: #DDF0E7;
+}
+table tr td,
+table tr th {
+  border: 1px solid #00733E;
+  padding: 5px;
+}
+table tr th {
+  color: white;
+}
+table tr:nth-child(2n + 1) {
+  background: #36D792;
+}
+section {
+  background: #36D88E;
+  border-top: 1px solid #C2BEBE;
+  margin-top: 20px;
+  width: 0;
+  max-height: 70px;
+  overflow: hidden;
+  color: white;
+}
+section p {
+  margin: 10px;
+  font-weight: bold;
+}
+section article {
+  font-size: 25px;
+  text-overflow: ellipsis;
+}
+select {
+  width: 160px;
+  height: 20px;
+}
+#p3-section,
+#p2-section {
+  max-height: 100px;
+}
+#p3-section #p3-result,
+#p2-section #p3-result,
+#p3-section #p3-result,
+#p2-section #p3-result {
+  font-size: 18px;
+}

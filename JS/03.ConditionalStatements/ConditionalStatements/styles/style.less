@@ -1,97 +1,140 @@
-﻿body, header, section, footer, article, div, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em {
-    margin: 0;
-    padding: 0;
-    border: 0;
+﻿body,
+header,
+section,
+footer,
+article,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+label,
+p,
+fieldset,
+nav,
+ul,
+li,
+a,
+span,
+strong,
+em {
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
-
 body {
-    color: #333333;
-    background: #C2BEBE;
-    font-family: Calibri, Consolas;
+  color: #333333;
+  background: #202020;
+  font-family: Calibri, Consolas;
 }
-
 #wrapper {
-    width: 960px;
-    margin-top: 0;
-    margin: 0 auto;
-    background: white;
-    border: 1px solid #C2BEBE;
-    text-align: center;
-
-    h1 {
-        background: #F5F5F5;
-        padding: 10px;
-        margin-bottom: 10px;
-    }
-
-    .problem {
-        margin-left: 20px;
-        margin-right: 20px;
-        border-bottom: 1px solid #C2BEBE;
-
-        h2 {
-            margin: 10px;
-        }
-
-        p {
-            margin: 10px;
-        }
-
-        input {
-            margin: 5px;
-            border-radius: 2px;
-            border: 1px solid #C2BEBE;
-        }
-
-        input[type = text] {
-            height: 20px;
-            width: 160px;
-        }
-
-        input[type = submit] {
-            padding: 2px 5px;
-            background: #000000; /* Old browsers */
-            background: -moz-linear-gradient(top, #000000 0%, #848484 98%); /* FF3.6+ */
-            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(98%,#848484)); /* Chrome,Safari4+ */
-            background: -webkit-linear-gradient(top, #000000 0%,#848484 98%); /* Chrome10+,Safari5.1+ */
-            background: -o-linear-gradient(top, #000000 0%,#848484 98%); /* Opera 11.10+ */
-            background: -ms-linear-gradient(top, #000000 0%,#848484 98%); /* IE10+ */
-            background: linear-gradient(to bottom, #000000 0%,#848484 98%); /* W3C */
-            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#848484',GradientType=0 ); /* IE6-9 */
-            border: 2px solid #0E54CC;
-            border-radius: 5px;
-            color: white;
-            height: 25px;
-            width: 80px;
-        }
-
-        .ivalidInput {
-            border: 2px solid red;
-        }
-    }
+  width: 960px;
+  margin-top: 0;
+  margin: 0 auto;
+  background: white;
+  border: 1px solid #C2BEBE;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
-
+#wrapper h1 {
+  background: #00733E;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: #ffffff;
+  box-shadow: 0px 1px 20px 2px black;
+  margin-bottom: 40px;
+}
+#wrapper .problem {
+  margin-left: 20px;
+  margin-right: 20px;
+  border-bottom: 1px solid #A62D00;
+}
+#wrapper .problem h2 {
+  margin: 10px;
+  color: #61D8A2;
+}
+#wrapper .problem p {
+  margin: 10px;
+}
+#wrapper .problem input {
+  margin: 5px;
+  border-radius: 4px;
+  border: 1px solid #C2BEBE;
+}
+#wrapper .problem input[type=text] {
+  height: 20px;
+  width: 160px;
+  padding-left: 5px;
+}
+#wrapper .problem input[type=submit] {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 7px;
+  border-radius: 10px;
+  text-shadow: 2px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #CD35D3;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+#wrapper .problem input[type=submit]:hover {
+  background: #A101A6;
+  text-decoration: none;
+}
+#wrapper .problem .invalidInput {
+  border: 2px solid #FF1900;
+}
 table {
-    border-collapse: collapse;
-    margin: 10px;
-    margin-left: auto;
-    margin-right: auto;
-
-    tr {
-        background: #ffffff;
-
-        td, th {
-            border: 1px solid #C2BEBE;
-            border-radius: 5px;
-            padding: 5px;
-        }
-
-        &:nth-child(2n + 1) {
-            background: #F8F8F8;
-        }
-    }
+  border-collapse: collapse;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
 }
-
-.ivalidInput {
-    border: 2px solid red;
+table tr {
+  background: #DDF0E7;
+}
+table tr td,
+table tr th {
+  border: 1px solid #00733E;
+  padding: 5px;
+}
+table tr th {
+  color: white;
+}
+table tr:nth-child(2n + 1) {
+  background: #36D792;
+}
+section {
+  background: #36D88E;
+  border-top: 1px solid #C2BEBE;
+  margin-top: 20px;
+  width: 0;
+  max-height: 70px;
+  overflow: hidden;
+  color: white;
+}
+section p {
+  margin: 10px;
+  font-weight: bold;
+}
+section article {
+  font-size: 25px;
+  text-overflow: ellipsis;
+}
+select {
+  width: 160px;
+  height: 20px;
 }
