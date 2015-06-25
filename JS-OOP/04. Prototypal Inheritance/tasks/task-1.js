@@ -94,7 +94,11 @@ function solve() {
                     throw Error('Invalid attribute name');
                 }
 
-                delete this._attr[name];
+                if (this._attr.hasOwnProperty(name)) {
+                    delete this._attr[name];
+                } else {
+                    throw  Error('No such attribute');
+                }
 
                 return this;
             },
@@ -193,6 +197,7 @@ function solve() {
                 if (first > second) {
                     return 1;
                 }
+
                 if (first < second) {
                     return -1;
                 }
@@ -202,7 +207,6 @@ function solve() {
 
             return result;
         }
-
 
         function isValidType(type) {
             return ((typeof type === 'string') &&
